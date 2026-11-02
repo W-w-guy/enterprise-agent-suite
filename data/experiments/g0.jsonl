@@ -1,0 +1,43 @@
+{"group": "g0", "run_id": "r1", "id": "q000", "ok": false, "latency_ms": 800, "tokens_in": 300, "tokens_out": 120}
+{"group": "g0", "run_id": "r1", "id": "q001", "ok": true, "latency_ms": 803, "tokens_in": 301, "tokens_out": 121}
+{"group": "g0", "run_id": "r1", "id": "q002", "ok": true, "latency_ms": 806, "tokens_in": 302, "tokens_out": 122}
+{"group": "g0", "run_id": "r1", "id": "q003", "ok": true, "latency_ms": 809, "tokens_in": 303, "tokens_out": 123}
+{"group": "g0", "run_id": "r1", "id": "q004", "ok": true, "latency_ms": 812, "tokens_in": 304, "tokens_out": 124}
+{"group": "g0", "run_id": "r1", "id": "q005", "ok": true, "latency_ms": 815, "tokens_in": 305, "tokens_out": 125}
+{"group": "g0", "run_id": "r1", "id": "q006", "ok": true, "latency_ms": 818, "tokens_in": 306, "tokens_out": 126}
+{"group": "g0", "run_id": "r1", "id": "q007", "ok": true, "latency_ms": 821, "tokens_in": 307, "tokens_out": 127}
+{"group": "g0", "run_id": "r1", "id": "q008", "ok": true, "latency_ms": 824, "tokens_in": 308, "tokens_out": 128}
+{"group": "g0", "run_id": "r1", "id": "q009", "ok": true, "latency_ms": 827, "tokens_in": 309, "tokens_out": 129}
+{"group": "g0", "run_id": "r1", "id": "q010", "ok": false, "latency_ms": 830, "tokens_in": 310, "tokens_out": 130}
+{"group": "g0", "run_id": "r1", "id": "q011", "ok": true, "latency_ms": 833, "tokens_in": 311, "tokens_out": 131}
+{"group": "g0", "run_id": "r1", "id": "q012", "ok": true, "latency_ms": 836, "tokens_in": 312, "tokens_out": 132}
+{"group": "g0", "run_id": "r1", "id": "q013", "ok": true, "latency_ms": 839, "tokens_in": 313, "tokens_out": 133}
+{"group": "g0", "run_id": "r1", "id": "q014", "ok": true, "latency_ms": 842, "tokens_in": 314, "tokens_out": 134}
+{"group": "g0", "run_id": "r1", "id": "q015", "ok": true, "latency_ms": 845, "tokens_in": 315, "tokens_out": 135}
+{"group": "g0", "run_id": "r1", "id": "q016", "ok": true, "latency_ms": 848, "tokens_in": 316, "tokens_out": 136}
+{"group": "g0", "run_id": "r1", "id": "q017", "ok": true, "latency_ms": 851, "tokens_in": 317, "tokens_out": 137}
+{"group": "g0", "run_id": "r1", "id": "q018", "ok": true, "latency_ms": 854, "tokens_in": 318, "tokens_out": 138}
+{"group": "g0", "run_id": "r1", "id": "q019", "ok": true, "latency_ms": 857, "tokens_in": 319, "tokens_out": 139}
+{"group": "g0", "run_id": "r1", "id": "q020", "ok": false, "latency_ms": 860, "tokens_in": 320, "tokens_out": 120}
+{"group": "g0", "run_id": "r1", "id": "q021", "ok": true, "latency_ms": 863, "tokens_in": 321, "tokens_out": 121}
+{"group": "g0", "run_id": "r1", "id": "q022", "ok": true, "latency_ms": 866, "tokens_in": 322, "tokens_out": 122}
+{"group": "g0", "run_id": "r1", "id": "q023", "ok": true, "latency_ms": 869, "tokens_in": 323, "tokens_out": 123}
+{"group": "g0", "run_id": "r1", "id": "q024", "ok": true, "latency_ms": 872, "tokens_in": 324, "tokens_out": 124}
+{"group": "g0", "run_id": "r1", "id": "q025", "ok": true, "latency_ms": 875, "tokens_in": 325, "tokens_out": 125}
+{"group": "g0", "run_id": "r1", "id": "q026", "ok": true, "latency_ms": 878, "tokens_in": 326, "tokens_out": 126}
+{"group": "g0", "run_id": "r1", "id": "q027", "ok": true, "latency_ms": 881, "tokens_in": 327, "tokens_out": 127}
+{"group": "g0", "run_id": "r1", "id": "q028", "ok": true, "latency_ms": 884, "tokens_in": 328, "tokens_out": 128}
+{"group": "g0", "run_id": "r1", "id": "q029", "ok": true, "latency_ms": 887, "tokens_in": 329, "tokens_out": 129}
+{"group": "g0", "run_id": "r1", "id": "q030", "ok": false, "latency_ms": 890, "tokens_in": 330, "tokens_out": 130}
+{"group": "g0", "run_id": "r1", "id": "q031", "ok": true, "latency_ms": 893, "tokens_in": 331, "tokens_out": 131}
+{"group": "g0", "run_id": "r1", "id": "q032", "ok": true, "latency_ms": 896, "tokens_in": 332, "tokens_out": 132}
+{"group": "g0", "run_id": "r1", "id": "q033", "ok": true, "latency_ms": 899, "tokens_in": 333, "tokens_out": 133}
+{"group": "g0", "run_id": "r1", "id": "q034", "ok": true, "latency_ms": 902, "tokens_in": 334, "tokens_out": 134}
+{"group": "g0", "run_id": "r1", "id": "q035", "ok": true, "latency_ms": 905, "tokens_in": 335, "tokens_out": 135}
+{"group": "g0", "run_id": "r1", "id": "q036", "ok": true, "latency_ms": 908, "tokens_in": 336, "tokens_out": 136}
+{"group": "g0", "run_id": "r1", "id": "q037", "ok": true, "latency_ms": 911, "tokens_in": 337, "tokens_out": 137}
+{"group": "g0", "run_id": "r1", "id": "q038", "ok": true, "latency_ms": 914, "tokens_in": 338, "tokens_out": 138}
+{"group": "g0", "run_id": "r1", "id": "q039", "ok": true, "latency_ms": 917, "tokens_in": 339, "tokens_out": 139}
+{"group":"g2","id":"broken","ok":true
+{"group": "g2", "id": "q999", "ok": "yes", "latency_ms": 100}
+{"group": "g2", "id": "q998", "ok": true, "latency_ms": -5}

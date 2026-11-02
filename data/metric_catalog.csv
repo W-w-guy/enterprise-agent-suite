@@ -1,0 +1,4 @@
+﻿metric_id,name,unit,doc_id,formula
+revenue,营业收入,USD,doc_rev,SUM(明细金额)
+gross_profit,毛利,USD,doc_gp,revenue - cost
+cost,营业成本,USD,doc_cost,SUM(明细成本)

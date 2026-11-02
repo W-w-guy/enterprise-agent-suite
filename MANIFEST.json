@@ -1,0 +1,217 @@
+{
+ "file_count": 42,
+ "files": [
+  {
+   "bytes": 76,
+   "path": ".gitattributes",
+   "sha256": "b91e16880b8e900a99c2b50d7abf568a920ec838c027ea458a7373664446ff04"
+  },
+  {
+   "bytes": 251,
+   "path": ".gitignore",
+   "sha256": "5150169ccc6a5f35ddfad4925244e19e45fe5498fbc3e8526c12087f18a24abf"
+  },
+  {
+   "bytes": 1675,
+   "path": "COST.md",
+   "sha256": "0c4c72007776fff106715bc1a9fd54fd372f0d231666d51d9ee9e9cfe3caa3ab"
+  },
+  {
+   "bytes": 3819,
+   "path": "README.md",
+   "sha256": "5b68934dccc18cffebd6ca0db4e389fecbef008bddacc61cfa4d07a986bc433e"
+  },
+  {
+   "bytes": 1573,
+   "path": "SETUP.md",
+   "sha256": "d95f18114af975be4762a96538e41ea69a5f5e8ae02eda319dbf816566134a9c"
+  },
+  {
+   "bytes": 10503,
+   "path": "VERIFICATION.md",
+   "sha256": "0f4ceff5bd8f6009d7588eceb36430e6e236489719180d9b2c2faffa569109bd"
+  },
+  {
+   "bytes": 3471,
+   "path": "run.py",
+   "sha256": "f1d5280026fd24f09e64a4591c5372f1ba80864a87d9ec8b85a7e8a6f3c08e52"
+  },
+  {
+   "bytes": 63,
+   "path": "core/__init__.py",
+   "sha256": "77118a7f2a8080a84ebb19a463dc6b4732d04a91eb01129a888490c62e6e8869"
+  },
+  {
+   "bytes": 2642,
+   "path": "core/evidence.py",
+   "sha256": "994f0b70906198040f5f4002b74a2c2850b2a1ee597adea6518a680f632e7b9d"
+  },
+  {
+   "bytes": 3333,
+   "path": "core/gate.py",
+   "sha256": "ac4f40359d9ee2876a7bd715b0c71332ab48aac736b35070f541df19fbf13baa"
+  },
+  {
+   "bytes": 2269,
+   "path": "core/money.py",
+   "sha256": "f63f93932011987db833d18b224b4575f6133837457daac664f47ed46c653e80"
+  },
+  {
+   "bytes": 3044,
+   "path": "core/report.py",
+   "sha256": "f25c5283e80fd18342ee5899d0ca674260ebdcee85eedfd6fcee6f05ca352308"
+  },
+  {
+   "bytes": 2542,
+   "path": "core/store.py",
+   "sha256": "1cc273da7779d618bac55c30dd6be0b43062df45f66c4c6a8bf6ccbd05001dfd"
+  },
+  {
+   "bytes": 2132,
+   "path": "core/text.py",
+   "sha256": "72c33eec9f7e0a4292c6320c7ec2344005885054575af6e7f354c30d3a20ac0c"
+  },
+  {
+   "bytes": 113,
+   "path": "data/docs.csv",
+   "sha256": "4925fb4d451b024f40e6d709742cdcd8a20982d0eac3613e4bc241c7e4998073"
+  },
+  {
+   "bytes": 629,
+   "path": "data/expenses.json",
+   "sha256": "09bcfcd51f8263376c59bedfcc36fcc53365cf77020c432f4fd9536878694a42"
+  },
+  {
+   "bytes": 188,
+   "path": "data/metric_catalog.csv",
+   "sha256": "5c2a4dfa8fe297dcaf8a254dcfe2a54d4c1841446a5d8b42b99153edc879b8f6"
+  },
+  {
+   "bytes": 418,
+   "path": "data/policy.json",
+   "sha256": "f37ba868d5186b08f9e59682e51418258b39105c5bc2d64c676c32efb2e128e1"
+  },
+  {
+   "bytes": 1353,
+   "path": "data/remote_docs.json",
+   "sha256": "71e5bf4b4414abc5544953dd79334f3fa395e59e8792d8086afea744e256e4bf"
+  },
+  {
+   "bytes": 660,
+   "path": "data/triples.csv",
+   "sha256": "59a120da3eac4c4c5b14f02999bc130015047ee85bd39517eae55894ebe0506a"
+  },
+  {
+   "bytes": 291,
+   "path": "data/values.csv",
+   "sha256": "f9b2ffccae065e8a014ddad5ebd1432a67337b6121793bebe63b9f86311a5d4d"
+  },
+  {
+   "bytes": 4724,
+   "path": "data/experiments/g0.jsonl",
+   "sha256": "fc9af6f872088216fd6a6685011f8274c1e79f28626f691159f767659c3b720f"
+  },
+  {
+   "bytes": 4723,
+   "path": "data/experiments/g1.jsonl",
+   "sha256": "b195912640d70d41e8201965bdb02ac559a31fb8c96404c9656f1fa4095a1b9e"
+  },
+  {
+   "bytes": 4747,
+   "path": "data/experiments/g2.jsonl",
+   "sha256": "79dfeefe5a8837a5951d061f982be33798e5dbc3d96e02266cd3b16b9c8d565b"
+  },
+  {
+   "bytes": 1722,
+   "path": "docs/1506_bizdata.md",
+   "sha256": "7d7a5195fa255228456fb92f1c6af1860ae9a8802230e1cbbe093ddc727103df"
+  },
+  {
+   "bytes": 1858,
+   "path": "docs/1519_connector.md",
+   "sha256": "1b3f24bd75b8dbab10e7ff4d671cb4efb47fb1af16f7f0cfb3b6e25d9c89bad2"
+  },
+  {
+   "bytes": 1662,
+   "path": "docs/1521_kg.md",
+   "sha256": "f109457d0182b2942719477b7f5e54f13a5a04c282040762d01a3ef1360ccdda"
+  },
+  {
+   "bytes": 1560,
+   "path": "docs/1530_board.md",
+   "sha256": "c76d68ee0689b85c13fea19dc2a5faecdf8eb4edacc7609a99931d1b8f19f0d2"
+  },
+  {
+   "bytes": 1906,
+   "path": "docs/1531_pilot.md",
+   "sha256": "cf16f1811ff47a7cce8af739d24477ecc5b98d7eeb5cae01688e656c7d0c54b5"
+  },
+  {
+   "bytes": 0,
+   "path": "slices/__init__.py",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "bytes": 16840,
+   "path": "slices/s1506_bizdata.py",
+   "sha256": "2b4421dc028554ac2aab612de559e798b9ce9b99e1aaf65f4c60bc727889a558"
+  },
+  {
+   "bytes": 11097,
+   "path": "slices/s1519_connector.py",
+   "sha256": "7192a5665c5aa6412fcefb2525088c9a96e9284ea656821aa72110039d4daf03"
+  },
+  {
+   "bytes": 15169,
+   "path": "slices/s1521_kg.py",
+   "sha256": "5c089f907865990e1ce65bef89563c2391ca57d5b917ab414786afcf9e4c7970"
+  },
+  {
+   "bytes": 12470,
+   "path": "slices/s1530_eval_board.py",
+   "sha256": "737b77bdffc93f9054a52adac17506bde005315b42c2949765f1ad2c76ae3094"
+  },
+  {
+   "bytes": 11138,
+   "path": "slices/s1531_pilot.py",
+   "sha256": "30a968a64560feec6ec49b6020f016b64f83646959b0230c376b98d7ab3a9d78"
+  },
+  {
+   "bytes": 592,
+   "path": "tests/helper.py",
+   "sha256": "204ef288dc01c23adc088053de81b760ee97107d7117df9a640637a3df7d88ab"
+  },
+  {
+   "bytes": 6862,
+   "path": "tests/test_core.py",
+   "sha256": "74e852d08822b28833e33966a2716f6df756cf9485572b57ac65cbe84b5c0fc4"
+  },
+  {
+   "bytes": 37376,
+   "path": "tests/test_slices.py",
+   "sha256": "dc03517e01237f65a83211d9bec2cc984a6a0844b64e9eb637731d60f46e6b50"
+  },
+  {
+   "bytes": 2516,
+   "path": "tools/check_package.py",
+   "sha256": "457492ff6e90cd0c8ac99cdad18bb9d9906eba67483a02d7b41e997fa199dfb6"
+  },
+  {
+   "bytes": 919,
+   "path": "tools/clean.py",
+   "sha256": "5664e7e9533eac13ff6a9f3c4bce62ddae0ac9bcb52bfd4b97f898405302a1e1"
+  },
+  {
+   "bytes": 1466,
+   "path": "tools/make_manifest.py",
+   "sha256": "536a8f362fcb30378c2b1535431238ff387e1fae1e850a022c7a337260625a9a"
+  },
+  {
+   "bytes": 4356,
+   "path": "tools/verify.py",
+   "sha256": "86270504e3f1e3733da34d00fd05d18561d87ba93e26818d97ae98721b268696"
+  }
+ ],
+ "root": "_deliver_series",
+ "total_bytes": 184748
+}

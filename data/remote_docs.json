@@ -1,0 +1,81 @@
+[
+ {
+  "provider": "feishu",
+  "id": "f1",
+  "rev": "v1",
+  "title": "采购制度",
+  "principals": [
+   "ou_owner",
+   "ou_fin"
+  ],
+  "content": "采购制度正文",
+  "updated_at": "2026-10-01"
+ },
+ {
+  "provider": "feishu",
+  "id": "f2",
+  "rev": "v1",
+  "title": "报销指引",
+  "principals": [
+   "grp_all"
+  ],
+  "content": "报销指引正文",
+  "updated_at": "2026-10-02"
+ },
+ {
+  "provider": "feishu",
+  "id": "f3",
+  "rev": "v1",
+  "title": "合同模板",
+  "principals": [
+   "ou_unknown"
+  ],
+  "content": "合同模板",
+  "updated_at": "2026-10-03"
+ },
+ {
+  "provider": "wps",
+  "id": "w1",
+  "rev": "v1",
+  "title": "预算表",
+  "principals": [
+   "R1",
+   "R2"
+  ],
+  "content": "预算表内容",
+  "updated_at": "2026-10-04"
+ },
+ {
+  "provider": "wps",
+  "id": "w2",
+  "rev": "v1",
+  "title": "周报模板",
+  "principals": [
+   "R3"
+  ],
+  "content": "周报模板",
+  "updated_at": "2026-10-05"
+ },
+ {
+  "provider": "wps",
+  "id": "w3",
+  "rev": "v1",
+  "title": "供应商名录",
+  "principals": [
+   "R2"
+  ],
+  "content": "供应商名录",
+  "updated_at": "2026-10-06"
+ },
+ {
+  "provider": "wps",
+  "id": "w4",
+  "rev": "v1",
+  "title": "无权限文档",
+  "principals": [
+   "R9"
+  ],
+  "content": "x",
+  "updated_at": "2026-10-07"
+ }
+]

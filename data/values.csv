@@ -1,0 +1,12 @@
+﻿metric_id,period,value
+revenue,2025-08,2200000
+cost,2025-08,1500000
+gross_profit,2025-08,700000
+revenue,2026-07,2600000
+cost,2026-07,1600000
+gross_profit,2026-07,1000000
+revenue,2026-08,2300000
+cost,2026-08,1900000
+gross_profit,2026-08,400000
+revenue,2026-08,abc
+,2026-08,100

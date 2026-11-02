@@ -1,0 +1,25 @@
+{
+ "threshold_pct": 0.5,
+ "owner": "财务共享中心",
+ "queue": "notice-queue",
+ "rubric": [
+  {
+   "id": "r1",
+   "name": "检出结果可复核",
+   "w": 0.3,
+   "check": "anomalies_reviewable"
+  },
+  {
+   "id": "r2",
+   "name": "审批结论与投递一致",
+   "w": 0.4,
+   "check": "approval_consistency"
+  },
+  {
+   "id": "r3",
+   "name": "审计可追溯",
+   "w": 0.3,
+   "check": "audit_traceable"
+  }
+ ]
+}
